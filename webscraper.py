@@ -3,7 +3,7 @@ import csv
 WAYBACK_API_URL = "http://web.archive.org/cdx/search/cdx"
 
 website = (
-    "https://www.eimskip.is/thjonusta/gjaldskrar/"  
+    "https://www.yourwebsitehere.com/"  
 )
 from_date = "201010"  # start date in YYYYMM format
 to_date = "202310"  # end date in YYYYMM format
